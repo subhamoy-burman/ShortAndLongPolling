@@ -59,4 +59,4 @@ function fetchLongPollData() {
 
 
 // Call fetchData every 3 seconds
-//setInterval(fetchData, 3000);
+setInterval(fetchData, 3000);
